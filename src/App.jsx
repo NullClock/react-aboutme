@@ -34,7 +34,7 @@ function SmallInfo() {
       <div className='status-row'>
         <a href='https://github.com/absolutegoaat'>Github Page</a>
         <div className='status-label'>
-          #swag #deltarune #python #csharp #c #java #html #css #javascript #developer #windows #reverse-engineer #ralsei #the-fun-gang
+          #swag #deltarune #python #csharp #c #c++ #java #html #css #javascript #developer #windows #reverse-engineer #ralsei #the-fun-gang
         </div>
       </div>
     </div>
@@ -81,7 +81,7 @@ function LargeInfo() {
               <li>
                 <strong>Languages:</strong>
                 <iframe
-                  src="https://skillicons.dev/icons?i=py,cs,cpp,html,css,js,windows"
+                  src="https://skillicons.dev/icons?i=py,cs,cpp,c,html,css,js,windows"
                   style={{ border: 0, margin: '5px', width: '100%', height: '50px' }}
                   title="languages"
                 />
